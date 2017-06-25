@@ -1,3 +1,3 @@
 # hello-world
 python 1 step
-this program suppose to print "hello world" when being lauched.
+This program suppose to print "Hello world" when being lauched.
